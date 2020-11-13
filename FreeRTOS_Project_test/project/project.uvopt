@@ -106,7 +106,7 @@
         <tRtrace>1</tRtrace>
         <sRunDeb>0</sRunDeb>
         <sLrtime>0</sLrtime>
-        <nTsel>1</nTsel>
+        <nTsel>-1</nTsel>
         <sDll></sDll>
         <sDllPa></sDllPa>
         <sDlgDll></sDlgDll>
@@ -237,7 +237,7 @@
       <Focus>0</Focus>
       <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>175</TopLine>
+      <TopLine>177</TopLine>
       <CurrentLine>182</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\lib\CMSIS\Device\ST\STM32F4xx\Source\Templates\arm\startup_stm32f4xx.s</PathWithFileName>
@@ -259,10 +259,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>24</ColumnNumber>
+      <ColumnNumber>5</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>35</TopLine>
-      <CurrentLine>81</CurrentLine>
+      <TopLine>74</TopLine>
+      <CurrentLine>82</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\user\main.c</PathWithFileName>
       <FilenameWithoutPath>main.c</FilenameWithoutPath>
@@ -275,9 +275,9 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>35</ColumnNumber>
+      <ColumnNumber>47</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>45</TopLine>
+      <TopLine>47</TopLine>
       <CurrentLine>57</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\user\delay.c</PathWithFileName>
@@ -355,10 +355,10 @@
       <FileType>1</FileType>
       <tvExp>0</tvExp>
       <Focus>0</Focus>
-      <ColumnNumber>12</ColumnNumber>
+      <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
       <TopLine>92</TopLine>
-      <CurrentLine>103</CurrentLine>
+      <CurrentLine>101</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\user\usart.c</PathWithFileName>
       <FilenameWithoutPath>usart.c</FilenameWithoutPath>
@@ -381,7 +381,7 @@
       <Focus>0</Focus>
       <ColumnNumber>21</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>424</TopLine>
+      <TopLine>426</TopLine>
       <CurrentLine>431</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\lib\STM32F4xx_StdPeriph_Driver\src\stm32f4xx_gpio.c</PathWithFileName>
@@ -613,7 +613,7 @@
       <Focus>0</Focus>
       <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>3491</TopLine>
+      <TopLine>3493</TopLine>
       <CurrentLine>3494</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\FreeRTOS\tasks.c</PathWithFileName>
@@ -669,7 +669,7 @@
       <Focus>0</Focus>
       <ColumnNumber>0</ColumnNumber>
       <tvExpOptDlg>0</tvExpOptDlg>
-      <TopLine>275</TopLine>
+      <TopLine>277</TopLine>
       <CurrentLine>278</CurrentLine>
       <bDave2>0</bDave2>
       <PathWithFileName>..\FreeRTOS\portable\MemMang\heap_4.c</PathWithFileName>
